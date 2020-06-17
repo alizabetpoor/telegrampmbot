@@ -1,6 +1,6 @@
 # telegrampmbot
  use this program to send and get message by telegram bot
-##install prerequisites
+## install prerequisites
 ```
 $ pip install python-telegram-bot
 ```
